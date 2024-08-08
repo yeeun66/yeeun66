@@ -38,7 +38,6 @@
 
 🏫 Handong Global University 22 <br/> 
 📝 Major in Computer Science Engineering <br/>
-📖 Be joyful always, pray continually, give thanks in all circumstances, for this is God's will for you in Christ Jesus.<br/> <br/> 
 
 ### 💼 WORK EXPERIENCE<br/> 
 2023.08 ~ now - Artificial Intelligence Computer Vision Lab (Jajongam Lab.)<br/>
