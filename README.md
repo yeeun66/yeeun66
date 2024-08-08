@@ -61,6 +61,6 @@
 <br/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeun66&show_icons=true&theme=nightowl)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpdms9322)](https://solved.ac/dpdms9322) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpdms9322)](https://solved.ac/dpdms9322) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeun66&layout=compact)
 
 <br/> 
