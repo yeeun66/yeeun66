@@ -47,7 +47,7 @@
 2024.07 ~ now - 오류 (HGU's Capstone Festival)
 
 ### 👩🏻‍💻 TEAM PROJECT<br/> 
-2023.09 ~ 2023.11 - [dormitory management system](https://github.com/sumina729/TeamProject-Miniproject) (Mini Project in OSS class)<br/>
+2023.09 ~ 2023.11 -  https://github.com/sixStone2023/SW_sixStone (AI sixStone2023 Competition Project)<br/>
 
 <br/>
 
