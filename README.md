@@ -47,7 +47,7 @@
 2024.07 ~ now - 오류 (HGU's Capstone Festival)
 
 ### 👩🏻‍💻 TEAM PROJECT<br/> 
-2023.09 ~ 2023.11 -  https://github.com/sixStone2023/SW_sixStone (AI sixStone2023 Competition Project)<br/>
+2023.09 ~ 2023.11 - [sixStone](https://github.com/sixStone2023/SW_sixStone) (AI sixStone2023 Competition Project)<br/>
 
 <br/>
 
