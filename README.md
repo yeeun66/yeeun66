@@ -29,7 +29,8 @@
 
 <div align=center>
 <h2>💡 MY INTRODUCTION 💡</h2>
-<a href="https://volcano-woodpecker-2f9.notion.site/2023-593897245c6d4ec7a719ba18a3343279?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-41454A?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="[https://volcano-woodpecker-2f9.notion.site/2023-593897245c6d4ec7a719ba18a3343279?pvs=4](https://www.notion.so/3-ea84105025d5411398358170a11a9c08)" target="_blank"><img src="https://img.shields.io/badge/notion-41454A?style=for-the-badge&logo=notion&logoColor=white"></a>
+
 </div>
 
 <br/>
