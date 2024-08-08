@@ -1,4 +1,4 @@
-![header](<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/b224bd52-15be-40c7-8398-2d07fa6de132">
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/b224bd52-15be-40c7-8398-2d07fa6de132">
 
 <div align=center>
 <h2>🛠 MY STACKS 🛠</h2>
