@@ -57,6 +57,7 @@
 
 ### 🏆 ACHIEVEMENTS<br/>
 2023.11 - [우수상] 2023 Artificial Intelligence Six-stone Competition in HGU 
+2024.11 - [장려상] 전국 대학생 프로그래밍 경진대회
 
 <br/> 
 <br/> 
